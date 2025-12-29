@@ -1,6 +1,4 @@
 <h1 align="center">Abdulaziz Alghubaywi</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=asghubaywi&show_icons=true&theme=transparent"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asghubaywi&layout=compact&theme=transparent"/>
 
 <h3 align="center">Building Government-Grade AI & Regulatory Platforms</h3>
 
