@@ -1,75 +1,84 @@
-# Abdulaziz Alghubaywi 👋  
-RegTech & AI Platform Architect | Government-Grade Compliance Systems
+<h1 align="center">Abdulaziz Alghubaywi</h1>
+<h3 align="center">Building Government-Grade AI & Regulatory Platforms</h3>
 
-🇸🇦 Building intelligent regulatory platforms for government, enterprises, and national-scale operations.
-
----
-
-## 🧠 What I Build
-I design and deliver **mission-critical AI platforms** focused on:
-- Regulatory compliance (SFDA, FDA, EU GMP, ISO)
-- Import & clearance automation
-- Risk scoring & regulatory decision engines
-- AI-powered document intelligence
-- Enterprise and government workflow automation
-
-My work operates at the intersection of:
-**AI × Regulation × Data × National Infrastructure**
+<p align="center">
+🇸🇦 Transforming laws, standards and compliance frameworks into intelligent, executable systems.
+</p>
 
 ---
 
-## 🚀 Flagship Platforms
-- **RegOps Intelligence Hub** – AI-driven regulatory & risk platform  
-- **WarehouseLink Enterprise AI** – Importer, warehouse & shipment intelligence  
-- **Compliance Copilot** – Real-time regulatory reasoning engine  
-- **AI Legal & PDF Analyzer** – Multi-document legal intelligence  
-- **SmartMailArchiver** – Government-grade communication intelligence  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=react" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="60"/>
+</div>
 
 ---
 
-## 🛠 Technology Stack
-**AI & Data**
-- LLMs (Local & Cloud), OCR, BERT, RAG, Vector Databases  
-- Python, FastAPI, LangChain, Transformers  
+## 🧠 What I Do
 
-**Backend**
-- PostgreSQL, TimescaleDB, pgvector  
-- SQL Server, Redis, Celery  
-- Docker, Docker-Compose  
+I design and operate **AI-powered regulatory and compliance platforms** for:
+- Food & Drug regulation  
+- Import & clearance operations  
+- Warehouses & cold-chain oversight  
+- Government-grade data & risk systems  
 
-**Frontend**
-- React, Next.js, TailwindCSS  
-- Dashboards & Executive Interfaces  
-
-**Ops & Observability**
-- Prometheus, Grafana, Sentry  
-- CI/CD, Secure Containers, Audit-Ready Systems  
+These systems replace manual compliance, emails, spreadsheets and PDF chaos with:
+> automated rules, real-time risk, and auditable decisions.
 
 ---
 
-## 🏛 Domains
-- Food & Drug Regulation  
-- Import & Clearance Systems  
-- Warehouses & Cold Chain  
-- National Compliance Platforms  
-- AI for Government  
+## 🏛 Core Platforms
+
+- **RegOps Intelligence Hub**  
+- **WarehouseLink Enterprise AI**  
+- **Compliance Copilot**  
+- **AI Legal & PDF Analyzer**  
+- **SmartMailArchiver**
+
+---
+
+## ⚙ Architecture Focus
+
+- LLMs (Local & Cloud), RAG, Vector Databases  
+- OCR & Document Intelligence  
+- Regulatory Rule Engines  
+- Workflow Automation  
+- Secure, auditable, government-grade systems  
 
 ---
 
 ## 📈 Philosophy
-> “Regulation is not paperwork — it is executable logic.”
 
-I translate laws, standards, and regulatory frameworks into:
-- Machine-readable rules  
-- Automated compliance engines  
-- Auditable decision systems  
+> Regulation is not text.  
+> It is executable logic.
+
+I convert standards like **SFDA, FDA, EU GMP, ISO** into:
+- machine-readable rules  
+- automated compliance  
+- decision-grade intelligence  
 
 ---
 
 ## 📫 Contact
+
 - GitHub: https://github.com/asghubaywi  
 - Email: abdulaziz550055@gmail.com  
 
 ---
 
-⭐ This profile represents my ongoing work on building **sovereign-grade AI and compliance platforms**.
+<p align="center">
+⭐ This GitHub represents my ongoing work on sovereign-grade AI and regulatory platforms.
+</p>
